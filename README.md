@@ -14,3 +14,8 @@ Although they will feature some differences, they will both be run by rasberry p
 ##### Assembly 
 
 A Brief description
+
+
+## ROS 
+
+Midware such as ROS (Robot Operating System) is included in order for multiple systems to be able to recieve their data from a single wifi source such as the camera system. ROS is used many robotic applications from low to very high budget systems.
